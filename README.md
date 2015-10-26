@@ -12,3 +12,7 @@ There are some cultures that track their birthday in lunar calendar, which makes
 1. Notification - 1 week
 1. Facebook api - 1 week
 1. Prepare presentation - 1 week
+###Dependancies
+https://github.com/jeffreyhwang/SolToLunWebService
+###Project Journal
+- [link to the journal](./weekly_journal.md)
